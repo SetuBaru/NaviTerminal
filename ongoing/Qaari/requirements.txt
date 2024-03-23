@@ -1,0 +1,5 @@
+pip==24.0
+setuptools
+torch
+torchvision
+torchaudio
